@@ -1,7 +1,7 @@
 ### Hola, I'm Md Abdul Ahammed 👋
 
-- 🔭 I’m currently searching junior fronend or full stack web developer internship/job .
-- 🌱 I’m currently learning advance mern stack development.
+- 🔭 I’m Junior Full Stack Developer .
+- 🌱 I’m currently learning advance Mern stack development.
 - 👯 I’m looking to collaborate on Google.
 - 🤔 I’m looking for help with Advance React.
 - 💬 Ask me about mern stack
