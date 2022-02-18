@@ -1,9 +1,7 @@
 ### Hola, I'm Md Abdul Ahammed 👋
 
-- 🔭 I’m Junior Full Stack Developer .
-- 🌱 I’m currently learning advance Mern stack development.
+- 🔭 I’m Full Stack Developer(MERN) .
 - 👯 I’m looking to collaborate on Google.
-- 🤔 I’m looking for help with Advance React.
 - 💬 Ask me about mern stack
 - 📫 How to reach me: [Twitter - @mdabdulahammed1](https://twitter.com/mdabdulahammed1) || [Linkedin - @mdabdulahammed](https://www.linkedin.com/in/mdabdulahammed/)
 - 😄 Pronouns: He/His
