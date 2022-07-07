@@ -1,6 +1,6 @@
 ### Hola, I'm Md Abdul Ahammed 👋
 
-- 🔭 I’m Full Stack Developer(MERN) .
+- 🔭 I’m Full Stack Developer(MERN) || React Developer || Frontend Developer .
 - 👯 I’m looking to collaborate on Google.
 - 💬 Ask me about mern stack
 - 📫 How to reach me: [Twitter - @mdabdulahammed1](https://twitter.com/mdabdulahammed1) || [Linkedin - @mdabdulahammed](https://www.linkedin.com/in/mdabdulahammed/)
